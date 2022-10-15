@@ -25,7 +25,7 @@ Layout practice (without adaptation).
 
 ## Demo
 
-[https://mudaston.github.io/Cuda](https://mudaston.github.io/Cuda/)
+[mudaston.github.io/Cuda](https://mudaston.github.io/Cuda/)
 
 <br/>
 
