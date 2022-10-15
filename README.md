@@ -2,12 +2,12 @@
 
 <div>
 
-<a href="https://gulpjs.com/" target="_blank">
-<img src="https://img.shields.io/badge/HTML-fff?style=for-the-badge&logo=HTML5">
+<a href="https://ru.wikipedia.org/wiki/HTML" target="_blank">
+<img src="https://img.shields.io/badge/HTML5--E34F26?style=for-the-badge&logo=HTML5">
 </a>
 
-<a href="https://sass-lang.com/" target="_blank">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3">
+<a href="https://ru.wikipedia.org/wiki/CSS" target="_blank">
+<img src="https://img.shields.io/badge/CSS3--1572B6?style=for-the-badge&logo=CSS3">
 </a>
 
 </div>
